@@ -1,3 +1,6 @@
+This project was created as a university group assignment (done in pairs).
+It fully implements DES encryption from scratch (as per the assignment specifications). We recieved full marks.
+
 COMPILATION:
 javac Application.java
 
